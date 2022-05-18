@@ -1,1 +1,4 @@
+.none_deco a{text-decoration: none; color: unset;}
+
 .guideLine{border: 1px solid #00ff00;}
+.guideLine_dash{border: 1px dashed #00ff00;}
